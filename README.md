@@ -1,5 +1,5 @@
-## Live Demo
-https://nino-11.github.io/kmeans-vs-dbscan/
+## Live Demo  
+**[Try it here](https://nino-11.github.io/kmeans-vs-dbscan/)**
 
 An interactive visualization that builds intuition for how K-Means and DBSCAN behave on real-world, non-linear data.
 
